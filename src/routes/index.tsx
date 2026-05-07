@@ -221,7 +221,7 @@ function Menu() {
         <div>
           <p className="text-xs uppercase tracking-[0.25em] text-gold">Cardápio Completo</p>
           <h3 className="mt-3 text-4xl md:text-5xl">
-            Da linha clássica aos <span className="italic text-gradient-gold"> autorais</span>
+            Da linha clássica aos <span className="italic text-gradient-gold">personalizados autorais</span>
           </h3>
           <hr className="gold-divider mt-6 w-24" />
           <p className="mt-5 text-base text-secondary-foreground/80 leading-relaxed">
