@@ -72,14 +72,18 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Lovable App" },
-      { name: "description", content: "Lovable Generated Project" },
+      { title: "Amo Brigadeiro" },
+      { name: "description", content: "Amo Brigadeiro: Sweet Landing is a high-conversion, mobile-first landing page for a brigadeiro brand." },
       { name: "author", content: "Lovable" },
-      { property: "og:title", content: "Lovable App" },
-      { property: "og:description", content: "Lovable Generated Project" },
+      { property: "og:title", content: "Amo Brigadeiro" },
+      { property: "og:description", content: "Amo Brigadeiro: Sweet Landing is a high-conversion, mobile-first landing page for a brigadeiro brand." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
       { name: "twitter:site", content: "@Lovable" },
+      { name: "twitter:title", content: "Amo Brigadeiro" },
+      { name: "twitter:description", content: "Amo Brigadeiro: Sweet Landing is a high-conversion, mobile-first landing page for a brigadeiro brand." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/40d285c5-ea9b-4939-9d8f-06331c433756/id-preview-bd9311a8--955b003a-7f50-4b1f-a9a3-32fcc5193398.lovable.app-1778178661078.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/40d285c5-ea9b-4939-9d8f-06331c433756/id-preview-bd9311a8--955b003a-7f50-4b1f-a9a3-32fcc5193398.lovable.app-1778178661078.png" },
     ],
     links: [
       {
