@@ -10,6 +10,7 @@ import imgCoco from "@/assets/brigadeiro-coco.jpg";
 import imgMorango from "@/assets/brigadeiro-morango.jpg";
 import imgDoceLeite from "@/assets/brigadeiro-doce-leite.jpg";
 import imgCaixa from "@/assets/caixa-v4.jpg";
+import imgCaixaSection from "@/assets/brigadeiros-anjinhos.jpg";
 import { WhatsAppFloat, WHATSAPP_URL } from "@/components/WhatsAppFloat";
 
 export const Route = createFileRoute("/")({
@@ -254,7 +255,7 @@ function Menu() {
         <div className="relative">
           <div className="absolute inset-0 rounded-[2rem] bg-gradient-gold opacity-20 blur-3xl" />
           <img
-            src={imgCaixa}
+            src={imgCaixaSection}
             alt="Caixa de brigadeiros gourmet"
             width={800}
             height={800}
