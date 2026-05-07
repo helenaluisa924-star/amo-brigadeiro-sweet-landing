@@ -4,7 +4,7 @@ import { Heart, Instagram, MessageCircle, Star, ChevronDown, Sparkles, ExternalL
 import heroImg from "@/assets/hero-brigadeiros.png";
 import imgClassic from "@/assets/brigadeiro-classic.jpg";
 import imgPistache from "@/assets/brigadeiro-pistache.jpg";
-import imgCoco from "@/assets/brigadeiro-coco.jpg";
+import imgCoco from "@/assets/brigadeiro-coco.png";
 import imgMorango from "@/assets/brigadeiro-morango.jpg";
 import imgDoceLeite from "@/assets/brigadeiro-doce-leite.jpg";
 import imgCaixa from "@/assets/brigadeiro-caixa.jpg";
