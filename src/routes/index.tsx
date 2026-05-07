@@ -2,6 +2,7 @@ import { createFileRoute } from "@tanstack/react-router";
 import { useState } from "react";
 import { Heart, Instagram, MessageCircle, Star, ChevronDown, Sparkles, ExternalLink } from "lucide-react";
 import heroImg from "@/assets/hero-brigadeiros.png";
+import logoAmo from "@/assets/logo-amo-brigadeiro.png";
 import imgClassic from "@/assets/brigadeiro-classic.jpg";
 import imgPistache from "@/assets/brigadeiro-pistache.jpg";
 import imgCoco from "@/assets/brigadeiro-coco.png";
@@ -89,17 +90,16 @@ function Header() {
   return (
     <header className="relative z-20 border-b border-border/60 bg-background/80 backdrop-blur">
       <div className="mx-auto flex max-w-6xl items-center justify-between px-5 py-4">
-        <div className="flex items-center gap-3">
-          <div className="flex h-11 w-11 items-center justify-center rounded-full bg-gradient-rose shadow-soft">
-            <Heart className="h-5 w-5 text-primary" fill="currentColor" />
-          </div>
-          <div>
-            <h1 className="text-2xl leading-none text-primary">Amo Brigadeiro</h1>
-            <p className="text-[11px] uppercase tracking-[0.18em] text-secondary/80 mt-1">
-              Brigadeiros Clássicos
-            </p>
-          </div>
-        </div>
+        <a href="#" className="flex items-center gap-3">
+          <img
+            src={logoAmo}
+            alt="Amo Brigadeiro · Brigadeiros Clássicos"
+            width={160}
+            height={160}
+            className="h-14 w-14 rounded-full object-cover shadow-soft"
+          />
+          <span className="sr-only">Amo Brigadeiro</span>
+        </a>
         <p className="hidden md:block text-sm italic text-muted-foreground max-w-xs text-right">
           "Levando amor e forma de brigadeiro até você."
         </p>
