@@ -92,8 +92,8 @@ function Header() {
     <header className="relative z-20 border-b border-border/60 bg-background/80 backdrop-blur">
       <div className="mx-auto flex max-w-6xl items-center justify-between px-5 py-4">
         <a href="#" className="flex items-center gap-3">
-          <div className="flex h-16 w-16 items-center justify-center rounded-full bg-gradient-rose shadow-soft">
-            <img src={logoIcon} alt="" className="h-12 w-12 object-contain" />
+          <div className="flex h-16 w-16 items-center justify-center rounded-full bg-secondary shadow-soft ring-2 ring-gold-deep/40">
+            <img src={logoIcon} alt="" className="h-14 w-14 object-contain" />
           </div>
           <div>
             <h1 className="text-xl leading-none text-primary">AMO BRIGADEIRO</h1>
