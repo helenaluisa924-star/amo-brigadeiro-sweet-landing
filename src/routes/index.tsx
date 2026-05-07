@@ -9,7 +9,7 @@ import imgPistache from "@/assets/brigadeiro-pistache.png";
 import imgCoco from "@/assets/brigadeiro-coco.jpg";
 import imgMorango from "@/assets/brigadeiro-morango.jpg";
 import imgDoceLeite from "@/assets/brigadeiro-doce-leite.jpg";
-import imgCaixa from "@/assets/new-caixa.jpg";
+import imgCaixa from "@/assets/new-caixa-v2.jpg";
 import { WhatsAppFloat, WHATSAPP_URL } from "@/components/WhatsAppFloat";
 
 export const Route = createFileRoute("/")({
