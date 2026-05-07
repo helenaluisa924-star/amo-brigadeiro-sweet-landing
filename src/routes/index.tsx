@@ -34,7 +34,7 @@ const products = [
   { img: imgPistache, name: "Clássico- Ninho", desc: "Cremoso e delicado, sabor que abraça." },
   { img: imgCoco, name: "Clássico - Coco Delicado", desc: "Beijinho Clássico, fofo, abraço em forma de doce." },
   { img: imgMorango, name: "Clássico - Moranguinho", desc: "Aquele brigadeiro com sabor de infância e nesquik. " },
-  { img: imgDoceLeite, name: "Doce de Leite", desc: "Caramelo cremoso que derrete na boca." },
+  { img: imgDoceLeite, name: "Caixas Personalizadas", desc: "Caramelo cremoso que derrete na boca." },
   { img: imgCaixa, name: "Caixa Especial", desc: "Para presentear quem você ama." },
 ];
 
