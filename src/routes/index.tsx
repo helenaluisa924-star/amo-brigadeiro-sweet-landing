@@ -1,7 +1,7 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { useState } from "react";
 import { Heart, Instagram, MessageCircle, Star, ChevronDown, Sparkles, ExternalLink } from "lucide-react";
-import heroImg from "@/assets/hero-brigadeiros.jpg";
+import heroImg from "@/assets/hero-brigadeiros.png";
 import imgClassic from "@/assets/brigadeiro-classic.jpg";
 import imgPistache from "@/assets/brigadeiro-pistache.jpg";
 import imgCoco from "@/assets/brigadeiro-coco.jpg";
