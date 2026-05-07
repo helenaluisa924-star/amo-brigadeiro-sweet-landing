@@ -149,7 +149,7 @@ function Hero() {
                 <Star key={i} className="h-4 w-4" fill="currentColor" />
               ))}
             </div>
-            <span className="ml-2">+500 clientes apaixonados em Brasília</span>
+            <span className="ml-2">+100 clientes apaixonados em Brasília</span>
           </div>
         </div>
 
