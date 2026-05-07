@@ -164,7 +164,7 @@ function Hero() {
           />
           <div className="absolute -bottom-5 -left-5 rounded-2xl bg-card px-5 py-4 shadow-card">
             <p className="text-xs uppercase tracking-widest text-muted-foreground">Sob encomenda</p>
-            <p className="text-lg text-secondary font-semibold">Frescos no seu dia ✨</p>
+            <p className="text-lg text-secondary font-semibold">Adicione amor ao seu dia ✨</p>
           </div>
         </div>
       </div>
