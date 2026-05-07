@@ -347,15 +347,14 @@ function Footer() {
         <div className="grid gap-10 md:grid-cols-3 md:items-start">
           <div>
             <div className="flex items-center gap-3">
-              <div className="flex h-11 w-11 items-center justify-center rounded-full bg-gradient-gold">
-                <Heart className="h-5 w-5 text-secondary" fill="currentColor" />
-              </div>
-              <div>
-                <p className="text-2xl font-display">Amo Brigadeiro</p>
-                <p className="text-[11px] uppercase tracking-[0.18em] text-gold">
-                  Brigadeiros Clássicos
-                </p>
-              </div>
+              <img
+                src={logoAmo}
+                alt="Amo Brigadeiro"
+                width={160}
+                height={160}
+                className="h-14 w-14 rounded-full object-cover"
+              />
+              <span className="sr-only">Amo Brigadeiro · Brigadeiros Clássicos</span>
             </div>
             <p className="mt-4 text-sm italic text-secondary-foreground/70 max-w-xs">
               "Levando amor e forma de brigadeiro até você."
