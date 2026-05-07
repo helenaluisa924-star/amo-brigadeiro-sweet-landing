@@ -3,6 +3,7 @@ import { useState } from "react";
 import { Heart, Instagram, MessageCircle, Star, ChevronDown, Sparkles, ExternalLink } from "lucide-react";
 import heroImg from "@/assets/hero-brigadeiros.png";
 import logoAmo from "@/assets/logo-amo-brigadeiro.png";
+import logoIcon from "@/assets/logo-icon.png";
 import imgClassic from "@/assets/brigadeiro-classic.jpg";
 import imgPistache from "@/assets/brigadeiro-pistache.jpg";
 import imgCoco from "@/assets/brigadeiro-coco.png";
@@ -91,14 +92,15 @@ function Header() {
     <header className="relative z-20 border-b border-border/60 bg-background/80 backdrop-blur">
       <div className="mx-auto flex max-w-6xl items-center justify-between px-5 py-4">
         <a href="#" className="flex items-center gap-3">
-          <img
-            src={logoAmo}
-            alt="Amo Brigadeiro · Brigadeiros Clássicos"
-            width={160}
-            height={160}
-            className="h-14 w-14 rounded-full object-cover shadow-soft"
-          />
-          <span className="sr-only">Amo Brigadeiro</span>
+          <div className="flex h-12 w-12 items-center justify-center rounded-full bg-gradient-rose shadow-soft">
+            <img src={logoIcon} alt="" className="h-8 w-8 object-contain" />
+          </div>
+          <div>
+            <h1 className="text-xl leading-none text-primary">AMO BRIGADEIRO</h1>
+            <p className="text-[10px] uppercase tracking-[0.18em] text-secondary/80 mt-1">
+              Brigadeiros Clássicos
+            </p>
+          </div>
         </a>
         <p className="hidden md:block text-sm italic text-muted-foreground max-w-xs text-right">
           "Levando amor e forma de brigadeiro até você."
@@ -347,14 +349,15 @@ function Footer() {
         <div className="grid gap-10 md:grid-cols-3 md:items-start">
           <div>
             <div className="flex items-center gap-3">
-              <img
-                src={logoAmo}
-                alt="Amo Brigadeiro"
-                width={160}
-                height={160}
-                className="h-14 w-14 rounded-full object-cover"
-              />
-              <span className="sr-only">Amo Brigadeiro · Brigadeiros Clássicos</span>
+              <div className="flex h-12 w-12 items-center justify-center rounded-full bg-gradient-gold shadow-soft">
+                <img src={logoIcon} alt="" className="h-8 w-8 object-contain" />
+              </div>
+              <div>
+                <p className="text-xl font-display leading-none">AMO BRIGADEIRO</p>
+                <p className="text-[10px] uppercase tracking-[0.18em] text-gold mt-1">
+                  Brigadeiros Clássicos
+                </p>
+              </div>
             </div>
             <p className="mt-4 text-sm italic text-secondary-foreground/70 max-w-xs">
               "Levando amor e forma de brigadeiro até você."
