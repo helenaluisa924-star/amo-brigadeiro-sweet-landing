@@ -40,16 +40,32 @@ const products = [
 
 const testimonials = [
   {
-    name: "Mariana S.",
-    text: "Encomendei para o aniversário da minha filha e foi sucesso absoluto. A textura é perfeita e a embalagem é um charme à parte. Voltarei sempre!",
+    name: "Isabel",
+    text: "Os detalhes e o acabamento são as coisas mais preciosas do mundo, tudo feito com muito carinho e cuidado, além de serem deliciosos!! Amei muito e já quero outros sabores!! 🥰🫶🏻",
   },
   {
-    name: "Rafael C.",
-    text: "Melhor brigadeiro que já comi em Brasília. Dá pra sentir o cuidado em cada detalhe — do sabor ao atendimento. Recomendo de olhos fechados.",
+    name: "Kedson",
+    text: "Você foi excelente nos ingredientes, apresentação, preparação, sabor e qualidade. Estava lindo demais, nós amamos muito!",
   },
   {
-    name: "Juliana M.",
-    text: "Pedi a caixa gourmet para presentear e meu marido amou. Chegaram lindos, fresquinhos, e o sabor é de outro mundo. Parecem feitos com mágica.",
+    name: "Carol",
+    text: "Estava tão bom que nem sobrou para congelar! Tudo lindo e delicioso, mês que vem vou querer de novo.",
+  },
+  {
+    name: "Carol",
+    text: "Ficou tudo lindo e delicioso! Todo mundo da festa elogiou!!",
+  },
+  {
+    name: "Iracema",
+    text: "Deu tudo certo, os docinhos estavam perfeitos. Todos amaram! 😍",
+  },
+  {
+    name: "Virgínia",
+    text: "Amei! Perfeitos e encantadores!",
+  },
+  {
+    name: "Sóstenes",
+    text: "Em 2 minutos acabaram! Gostamos muito.",
   },
 ];
 
