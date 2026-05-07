@@ -35,7 +35,7 @@ const products = [
   { img: imgCoco, name: "Clássico - Coco Delicado", desc: "Beijinho Clássico, fofo, abraço em forma de doce." },
   { img: imgMorango, name: "Clássico - Moranguinho", desc: "Aquele brigadeiro com sabor de infância e nesquik. " },
   { img: imgDoceLeite, name: "Especiais - Churros Royale", desc: "Doce de Leite de verdade, cremoso e irresistivel" },
-  { img: imgCaixa, name: "Caixa Especial", desc: "Para presentear quem você ama." },
+  { img: imgCaixa, name: "Caixas Personalizadas", desc: "Para presentear quem você ama." },
 ];
 
 const testimonials = [
