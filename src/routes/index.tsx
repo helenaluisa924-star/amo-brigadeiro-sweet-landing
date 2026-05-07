@@ -31,7 +31,7 @@ export const Route = createFileRoute("/")({
 
 const products = [
   { img: imgClassic, name: "Tradicional", desc: "Clássico - Brigadeiro Tradicional" },
-  { img: imgPistache, name: "Pistache", desc: "Sofisticado, crocante, irresistível." },
+  { img: imgPistache, name: "Ninho", desc: "Cremoso e delicado, sabor que abraça." },
   { img: imgCoco, name: "Beijinho de Coco", desc: "Branquinho, fofo, abraço em forma de doce." },
   { img: imgMorango, name: "Morango Real", desc: "Pedacinhos de morango de verdade." },
   { img: imgDoceLeite, name: "Doce de Leite", desc: "Caramelo cremoso que derrete na boca." },
