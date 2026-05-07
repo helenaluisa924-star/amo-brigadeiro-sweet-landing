@@ -5,7 +5,7 @@ import heroImg from "@/assets/hero-brigadeiros.png";
 import logoAmo from "@/assets/logo-amo-brigadeiro.png";
 import logoIcon from "@/assets/logo-icon.png";
 import imgClassic from "@/assets/brigadeiro-classic.jpg";
-import imgPistache from "@/assets/brigadeiro-pistache.jpg";
+import imgPistache from "@/assets/brigadeiro-pistache.png";
 import imgCoco from "@/assets/brigadeiro-coco.jpg";
 import imgMorango from "@/assets/brigadeiro-morango.jpg";
 import imgDoceLeite from "@/assets/brigadeiro-doce-leite.jpg";
