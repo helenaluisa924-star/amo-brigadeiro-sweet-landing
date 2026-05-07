@@ -32,7 +32,7 @@ export const Route = createFileRoute("/")({
 const products = [
   { img: imgClassic, name: "​Clássico - Brigadeiro Tradicional", desc: "A gente ama, você ama e como o Brigadeiro da Amo, você nunca viu!" },
   { img: imgPistache, name: "Clássico- Ninho", desc: "Cremoso e delicado, sabor que abraça." },
-  { img: imgCoco, name: "Beijinho Clássico, fofo, abraço em forma de doce.", desc: "Beijinho Clássico, fofo, abraço em forma de doce." },
+  { img: imgCoco, name: " ", desc: "Beijinho Clássico, fofo, abraço em forma de doce." },
   { img: imgMorango, name: "Morango Real", desc: "Pedacinhos de morango de verdade." },
   { img: imgDoceLeite, name: "Doce de Leite", desc: "Caramelo cremoso que derrete na boca." },
   { img: imgCaixa, name: "Caixa Especial", desc: "Para presentear quem você ama." },
