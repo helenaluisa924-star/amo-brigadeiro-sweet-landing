@@ -79,10 +79,6 @@ const faqs = [
     a: "Trabalhamos com retirada e entrega em Brasília e região (taxa conforme o bairro). Combinamos tudo direto no WhatsApp para garantir que seus brigadeiros cheguem perfeitos.",
   },
   {
-    q: "Qual o prazo de validade dos brigadeiros?",
-    a: "Nossos brigadeiros são feitos sob encomenda e mantêm sabor e textura ideais por até 5 dias refrigerados. Recomendamos consumir frescos para uma experiência completa.",
-  },
-  {
     q: "Quais são as formas de pagamento?",
     a: "Aceitamos PIX, cartão de crédito, débito e dinheiro. Combinamos a melhor opção pra você no momento do pedido.",
   },
