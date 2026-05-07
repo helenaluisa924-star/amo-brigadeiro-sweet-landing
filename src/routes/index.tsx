@@ -117,7 +117,7 @@ function Hero() {
         <div className="animate-float-up">
           <span className="inline-flex items-center gap-2 rounded-full border border-accent/40 bg-background/60 px-4 py-1.5 text-xs uppercase tracking-[0.2em] text-secondary">
             <Sparkles className="h-3.5 w-3.5 text-gold-deep" />
-            Feito à mão · Feito com amor
+            FEITO ARTESANALMENTE · FEITO COM AMOR
           </span>
           <h2 className="mt-6 text-5xl md:text-6xl leading-[1.05] text-secondary">
             Cada mordida é um <span className="text-gradient-gold italic">abraço</span> em forma de doce.
