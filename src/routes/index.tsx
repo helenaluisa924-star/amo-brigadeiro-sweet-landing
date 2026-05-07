@@ -84,7 +84,7 @@ const faqs = [
   },
   {
     q: "Quais são as formas de pagamento?",
-    a: "Aceitamos PIX (com desconto especial), cartão de crédito, débito e dinheiro. Combinamos a melhor opção pra você no momento do pedido.",
+    a: "Aceitamos PIX, cartão de crédito, débito e dinheiro. Combinamos a melhor opção pra você no momento do pedido.",
   },
 ];
 
