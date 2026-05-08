@@ -153,7 +153,7 @@ function Hero() {
               href="#vitrine"
               className="inline-flex items-center justify-center rounded-full border border-secondary/30 px-7 py-4 font-medium text-secondary hover:bg-secondary hover:text-secondary-foreground transition"
             >
-              Conheça nossos sabores
+              Conheça os sabores favoritos
             </a>
           </div>
           <div className="mt-8 flex items-center gap-1 text-sm text-muted-foreground">
