@@ -238,8 +238,8 @@ function Menu() {
           </h3>
           <hr className="gold-divider mt-6 w-24" />
           <p className="mt-5 text-base text-secondary-foreground/80 leading-relaxed">
-            Mais de 20 sabores entre os clássicos que aquecem a memória e os epseciais
-            inesperados — pistache, ninho com avelã, limão, churros e muito mais.
+            Mais de 20 sabores entre os clássicos que aquecem a memória e os especias
+            inesperados: Ferrero Premium, Prestígio Noir, Ninho com avelã, Limão, Churros Royale e muito mais.
             Encontre o seu favorito (ou todos eles).
           </p>
           <a
