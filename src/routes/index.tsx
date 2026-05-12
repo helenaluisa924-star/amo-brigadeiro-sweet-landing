@@ -34,7 +34,7 @@ const products = [
   { img: imgClassic, name: "​Clássico - Brigadeiro Tradicional", desc: "A gente ama, você ama e como o Brigadeiro da Amo, você nunca viu!" },
   { img: imgPistache, name: "Clássico- Ninho", desc: "Cremoso e delicado, sabor que abraça." },
   { img: imgCoco, name: "Clássico - Coco Delicado", desc: "Beijinho Clássico, fofo, abraço em forma de doce." },
-  { img: imgMorango, name: "Clássico - Moranguinho", desc: "Aquele brigadeiro com sabor de infância e nesquik. " },
+  { img: imgMorango, name: "Clássico - Moranguinho", desc: "Aquele brigadeiro com sabor de infância." },
   { img: imgDoceLeite, name: "Especiais - Churros Royale", desc: "Doce de Leite de verdade, cremoso e irresistivel" },
   { img: imgCaixa, name: "Caixas Personalizadas", desc: "Para presentear quem você ama." },
 ];
