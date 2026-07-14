@@ -243,7 +243,7 @@ function Menu() {
             Encontre o seu favorito (ou todos eles).
           </p>
           <a
-            href="https://drive.google.com/file/d/1LOaKofht9xYVazb2U4OQZRKJOjSkv2wl/view?usp=sharing"
+            href="https://drive.google.com/file/d/1iEvzCUivQEP_0LEXJG1H0H7pQvM5SVo1/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="mt-8 inline-flex items-center gap-2 rounded-full bg-gradient-gold px-7 py-4 font-semibold text-secondary shadow-soft hover:brightness-110 transition"
